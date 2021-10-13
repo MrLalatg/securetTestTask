@@ -1,0 +1,6 @@
+fastapi==0.70.0
+uvicorn==0.15.0
+tinydb==4.5.2
+cryptography==35.0.0
+passlib==1.7.4
+python-jose==3.3.0
